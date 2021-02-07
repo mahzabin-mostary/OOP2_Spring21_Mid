@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\c#\course\course\bin\Debug\course.exe.config
+C:\Users\HP\Desktop\c#\course\course\bin\Debug\course.exe
+C:\Users\HP\Desktop\c#\course\course\bin\Debug\course.pdb
+C:\Users\HP\Desktop\c#\course\course\obj\Debug\course.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\c#\course\course\obj\Debug\course.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c#\course\course\obj\Debug\course.exe
+C:\Users\HP\Desktop\c#\course\course\obj\Debug\course.pdb
