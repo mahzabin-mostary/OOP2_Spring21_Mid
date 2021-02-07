@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\c#\labtask\labtask\bin\Debug\labtask.exe.config
+C:\Users\HP\Desktop\c#\labtask\labtask\bin\Debug\labtask.exe
+C:\Users\HP\Desktop\c#\labtask\labtask\bin\Debug\labtask.pdb
+C:\Users\HP\Desktop\c#\labtask\labtask\obj\Debug\labtask.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\c#\labtask\labtask\obj\Debug\labtask.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c#\labtask\labtask\obj\Debug\labtask.exe
+C:\Users\HP\Desktop\c#\labtask\labtask\obj\Debug\labtask.pdb
