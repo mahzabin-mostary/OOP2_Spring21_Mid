@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\c#\trianglee\trianglee\obj\Debug\trianglee.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\c#\trianglee\trianglee\obj\Debug\trianglee.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c#\trianglee\trianglee\bin\Debug\trianglee.exe.config
+C:\Users\HP\Desktop\c#\trianglee\trianglee\bin\Debug\trianglee.exe
+C:\Users\HP\Desktop\c#\trianglee\trianglee\bin\Debug\trianglee.pdb
+C:\Users\HP\Desktop\c#\trianglee\trianglee\obj\Debug\trianglee.exe
+C:\Users\HP\Desktop\c#\trianglee\trianglee\obj\Debug\trianglee.pdb
