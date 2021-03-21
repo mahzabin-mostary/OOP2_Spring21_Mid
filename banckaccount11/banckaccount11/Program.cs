@@ -12,7 +12,9 @@ namespace banckaccount11
         public string Accid { get; }
         public double Balance { get; set; }
 
-        public Account() { }
+        public Account() {
+            Console.WriteLine("defult constructor");
+        }
         public Account(string accName, string accid, double balance)
         {
             AccName = accName;
@@ -26,30 +28,16 @@ namespace banckaccount11
         public void ShowInfo()
         {
             Console.WriteLine("Acc Name: " + AccName);
-            Console.WriteLine("Acc No: " + AccId);
+            Console.WriteLine("Acc id: " + AccId);
             Console.WriteLine("Balance: " + Balance);
-
-        }
-        virtual public void Withdraw(double amount)
-        {
-
-        }
-        virtual public void Transfer(Account acc, double amount)
-        {
 
         }
         static void Main(string[] args)
         {
 
-
             Account obj = new Account("mahzabin", "1111", 50000);
-           obj.ShowInfo();
-
-
-
+            obj.ShowInfo();
         }
-    }
 }
 
-    }
-}
+   
